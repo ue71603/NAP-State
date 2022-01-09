@@ -2,6 +2,9 @@
 
 This repository is an experimental table for national access point tracking per country based on EU/1926/2017 (https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1926&from=DE) 
 
+## Methdology
+https://github.com/ue71603/NAP-State/blob/main/methodolgoy.md
+
 ## The NAPs
 https://github.com/ue71603/NAP-State/blob/main/nap/nap.md
 
