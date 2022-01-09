@@ -24,13 +24,12 @@ Greece|www.nap.gov.gr|Open Data Plattform|none|
 Hungary|https://napportal.kozu t.hu/|Web Portal|none|
 Ireland|https://data.gov.ie|Open Data Plattform|Bike Sharing|
 Italy|http://www.cciss.it/|Web Portal||
-Latvia|https://lvceli.lv/en/road-network/statistical- ata/transport-sector-open-data/|(no access)||
+Latvia|https://lvceli.lv/en/road-network/statistical-data/transport-sector-open-data/|(no access)||
 Lithuania|www.visimarsrutai.lt/gtfs|Download Site|none|
 Luxembourg|https://data.public.lu/en/|Open Data Platform|Bike Sharing|
-Malta|http://news.transport. gov.mt/data/|
-http://egis.transport.gov.mt:8030/egis#|Web Portal|none|
-Netherlands|https://ndovloket.nl <br>https://nt.ndw.nu/ Open Data Platform|Fähren (im Prinzip auch ein öV)|
-Norway|https://transportportal.atlas.vegvesen.no/no/ |Open Data Platform|Multimodal Routeplanner (OTP)|
+Malta|http://news.transport.gov.mt/data <br>http://egis.transport.gov.mt:8030/egis#|Web Portal|none|
+Netherlands|https://ndovloket.nl <br>https://nt.ndw.nu/ |Open Data Platform|ferrys, but they are regular public transport|
+Norway|https://transportportal.atlas.vegvesen.no/no/ |Open Data Platform|Multimodal trip planner (OTP)|
 Poland|https://dane.gov.pl/dataset/1739|Open Data Platform|none|
 Portugal|https://nap-portugal.imt-ip.pt/|Web Portal|none|
 Romania|||||
