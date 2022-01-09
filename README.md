@@ -13,7 +13,10 @@ One part is providing the necessary data as datasets. We distinguish:
 * Realtime data
 * Others
 
-###Timetables and real time data
+### Basic data
+Basic data often is not provided directly by the NAP, but by other entities. We had to take this into account.
+
+### Timetables and real time data
 Timetables and the like are often provided in different formats. The regulation names only NeTEx and Siri and the like. Therefore only those are considered. It may be that we will have to extend this later.
 
 |Country|URL|NeTEx timetable|Fares|Siri PT|Siri ET|Siri FM | Siri VM|Siri SX|
@@ -21,7 +24,9 @@ Timetables and the like are often provided in different formats. The regulation 
 |Switzerland|https://opentransportdata.swiss/de/|Experimental|-|Soon|Soon|-|-|Soon|
 |Austria|<ul><li>OeBB: https://data.oebb.at/#default/support</li><li>Arge-öVV</li></ul>|?|?|?|?|?|?|?|
 
-##Types of the static travel data
+# API for trip planning
+
+## Types of the static travel data
 
 ### Trip planner service (level 1)
 |Country|URL|Location search|Trip plans|Location search (accessnodes)|Trip plan computation|Trip plan computation (road)|Location search (demand-responsive modes)|Information service|
