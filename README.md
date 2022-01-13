@@ -27,7 +27,7 @@ Basic data often is not provided directly by the NAP, but by other entities. We 
 
 Public transport
 |Country|Routes|Calendar&DayTypes|stops|Geometry / details stops|Operators|Timetables|Interchange time|Guaranteed interchange|Operating hours|Equipment at stops|Vehicle (types|routing within stops|Assistance|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |Switzerland|n/a|NeTEx|NeTEx|TSI PRM/ <br>EPIAP missing <br> or use OSM|NeTEx|NeTEx|NeTEx|NeTEx (spotty)|NeTEx|missing|missing|missing (use OSM)|missing|
 
 
