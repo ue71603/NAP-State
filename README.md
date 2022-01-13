@@ -24,7 +24,7 @@ Timetables and the like are often provided in different formats. The regulation 
 
 |Country|URL|NeTEx timetable|Fares|Siri PT|Siri ET|Siri FM | Siri VM|Siri SX|
 |--|--|--|--|--|--|--|--|--|
-|Switzerland|https://opentransportdata.swiss/de/|Experimental|-|Soon|Soon|-|-|Soon|
+|Switzerland|https://opentransportdata.swiss/de/|Experimental|not available|soon|soon|not available|notavailable|soon, but only some operators|
 |Austria|<ul><li>OeBB: https://data.oebb.at/#default/support</li><li>Arge-öVV</li></ul>|?|?|?|?|?|?|?|
 
 # API for trip planning
