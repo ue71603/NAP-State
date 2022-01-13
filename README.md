@@ -21,7 +21,7 @@ Basic data often is not provided directly by the NAP, but by other entities. We 
 
 #### Datasets
 |Country|Address information|Topographic Places|POI|Petrol stations |Charing stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 |Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 
