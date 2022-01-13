@@ -19,12 +19,19 @@ One part is providing the necessary data as datasets. We distinguish:
 ### Basic data
 Basic data often is not provided directly by the NAP, but by other entities. We had to take this into account.
 
+#### Datasets
+|Country|Address information|Topographic Places|POI|Petrol stations |Charing stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|
+|--|--|--|--|--|--|--|--|--|
+|Switzerland|?|?|?|?|?|?|?|?|?|
+
+#### Used in Distributed trip planner
+
 ### Timetables and real time data
 Timetables and the like are often provided in different formats. The regulation names only NeTEx and Siri and the like. Therefore only those are considered. It may be that we will have to extend this later.
 
 |Country|URL|NeTEx timetable|Fares|Siri PT|Siri ET|Siri FM | Siri VM|Siri SX|
 |--|--|--|--|--|--|--|--|--|
-|Switzerland|https://opentransportdata.swiss/de/|Experimental|not available|soon|soon|not available|notavailable|soon, but only some operators|
+|Switzerland|https://opentransportdata.swiss/de/|Experimental <br> Missing: Routes, POI, vechile types|not available|soon|soon|not available|notavailable|soon, but only some operators|
 |Austria|<ul><li>OeBB: https://data.oebb.at/#default/support</li><li>Arge-öVV</li></ul>|?|?|?|?|?|?|?|
 
 # API for trip planning
