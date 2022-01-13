@@ -20,7 +20,7 @@ One part is providing the necessary data as datasets. We distinguish:
 Basic data often is not provided directly by the NAP, but by other entities. We had to take this into account.
 
 #### Datasets
-|Country|Address information|Topographic Places|POI|Petrol stations |Charing stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
+|Country|Address information|Topographic Places|POI|Petrol stations |Charging stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 |Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
@@ -37,7 +37,21 @@ Information services
 |Switzerland|missing|missing|partly NeTEx, party missing|missing|missing|missing|
 
 #### Used in Distributed trip planner
+|Country|Address information|Topographic Places|POI|Petrol stations |Charging stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Switzerland|[x]|[x] (proprietary)|[ ] many missing|[ ] not used|[ ] not used|[ ] in test|[ ] in test|[ ] in test|[ ] planned|[x] OSM|[x] OSM|[ ] missing|[ ]|
+|Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 
+Public transport
+|Country|Routes|Calendar&DayTypes|stops|Geometry / details stops|Operators|Timetables|Interchange time|Guaranteed interchange|Operating hours|Equipment at stops|Vehicle (types|routing within stops|Assistance|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Switzerland|n/a|[x] calculated from OSM|[x]|[x]|[x] OSM|[x]|[x]|[x] partly|[x] partly|[x]|[ ] not yet|[x]|missing|
+
+
+Information services
+|Country|Order channels|Base and normal tarrifs line traffic|Vehicle equipments|Maut channels|Directory service for ordering|Parking fees|
+|--|--|--|--|--|--|--|
+|Switzerland|missing|missing|partly NeTEx, party missing|missing|missing|missing|
 ### Timetables and real time data
 Timetables and the like are often provided in different formats. The regulation names only NeTEx and Siri and the like. Therefore only those are considered. It may be that we will have to extend this later.
 
