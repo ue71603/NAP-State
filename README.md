@@ -53,14 +53,14 @@ Timetables and the like are often provided in different formats. The regulation 
 ### Level of service 1
 |Country|URL|Passing times, trip plans and auxiliary information|
 |--|--|--|
-|Switzerlan|xxx|?|
+|Switzerland|xxx|?|
 
 ### Level of service 2
 |Country|URL|Passing times, trip plans and auxiliary information (all modes)|Information service|Availability check|
 |--|--|--|--|--|
-|Switzerlan|xxx|?|?|?|
+|Switzerland|xxx|?|?|?|
 
 ### Level of service 3
 |Country|URL|Trip plans|
 |--|--|--|
-|Switzerlan|xxx|no, no realtime road data|
+|Switzerland|xxx|no, no realtime road data|
