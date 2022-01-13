@@ -20,21 +20,31 @@ One part is providing the necessary data as datasets. We distinguish:
 Basic data often is not provided directly by the NAP, but by other entities. We had to take this into account.
 
 #### Datasets
-|Country|Address information|Topographic Places|POI|Petrol stations |Charing stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|
-|--|--|--|--|--|--|--|--|--|--|
-|Switzerland|?|?|?|?|?|?|?|?|?|
-|Switzerland|?|?|?|?|?|?|?|?|?|
+|Country|Address information|Topographic Places|POI|Petrol stations |Charing stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
+|Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 
+Public transport
+|Country|Routes|Calendar&DayTypes|stops|Geometry / details stops|Operators|Timetables|Interchange time|Guaranteed interchange|Operating hours|Equipment at stops|Vehicle (types|routing within stops|Assistance|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|Switzerland|n/a|NeTEx|NeTEx|TSI PRM/ <br>EPIAP missing <br> or use OSM|NeTEx|NeTEx|NeTEx|NeTEx (spotty)|NeTEx|missing|missing|missing (use OSM)|missing|
+
+
+Information services
+|Country|Order channels|Base and normal tarrifs line traffic|Vehicle equipments|Maut channels|Directory service for ordering|Parking fees|
+|--|--|--|--|--|--|--|
+|Switzerland|missing|missing|partly NeTEx, party missing|missing|missing|missing|
 
 #### Used in Distributed trip planner
 
 ### Timetables and real time data
 Timetables and the like are often provided in different formats. The regulation names only NeTEx and Siri and the like. Therefore only those are considered. It may be that we will have to extend this later.
 
-|Country|URL|NeTEx timetable|Fares|Siri PT|Siri ET|Siri FM | Siri VM|Siri SX|
-|--|--|--|--|--|--|--|--|--|
-|Switzerland|https://opentransportdata.swiss/de/|Experimental <br> Missing: Routes, POI, vechile types|not available|soon|soon|not available|notavailable|soon, but only some operators|
-|Austria|<ul><li>OeBB: https://data.oebb.at/#default/support</li><li>Arge-öVV</li></ul>|?|?|?|?|?|?|?|
+|Country|URL|NeTEx timetable|Fares|Siri PT|Siri ET|Siri FM | Siri VM|Siri SX|DATEX II actual road times|DATEX II blocked roads|
+|--|--|--|--|--|--|--|--|--|--|--|
+|Switzerland|https://opentransportdata.swiss/de/|Experimental <br> Missing: Routes, POI, vechile types|not available|soon|soon|not available|notavailable|soon, but only some operators|?|
+|Austria|<ul><li>OeBB: https://data.oebb.at/#default/support</li><li>Arge-öVV</li></ul>|?|?|?|?|?|?|?|?|?|
 
 # API for trip planning
 
