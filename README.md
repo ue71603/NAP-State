@@ -39,13 +39,13 @@ Information services
 #### Used in Distributed trip planner
 |Country|Address information|Topographic Places|POI|Petrol stations |Charging stations |Park&Ride stations |Bike-Sharing stations |Car-Sharing-Stations|safe bike  parking|Road network|Detailed cycle network|Environmental impact calculation|Power usage for vehicles|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|Switzerland|[x]|[x] (proprietary)|[ ] many missing|[ ] not used|[ ] not used|[ ] in test|[ ] in test|[ ] in test|[ ] planned|[x] OSM|[x] OSM|[ ] missing|[ ]|
+|Switzerland|[x]|[x] (proprietary)|[ ]<br> many missing|[ ]<br>not used|[ ]<br>not used|[ ]<br>in test|[ ]<br>in test|[ ]<br>in test|[ ]<br>planned|[x]<br>OSM|[x]<br>OSM|[ ]<br>missing|[ ]|
 |Switzerland|?|?|?|?|?|?|?|?|?|?|?|?|?|
 
 Public transport
 |Country|Routes|Calendar&DayTypes|stops|Geometry / details stops|Operators|Timetables|Interchange time|Guaranteed interchange|Operating hours|Equipment at stops|Vehicle (types|routing within stops|Assistance|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|Switzerland|n/a|[x] calculated from OSM|[x]|[x]|[x] OSM|[x]|[x]|[x] partly|[x] partly|[x]|[ ] not yet|[x]|missing|
+|Switzerland|n/a|[x]<br>calculated from OSM|[x]|[x]|[x]<br>OSM|[x]|[x]|[x]<br>partly|[x]<br>partly|[x]|[ ]<br>not yet|[x]|[ ]<br>missing|
 
 
 Information services
